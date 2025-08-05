@@ -1,0 +1,21 @@
+# German on death records 
+
+- Der Verstorbene: The deceased
+    - Stand: place 
+        - In handwriten entry:
+            - wohnhaft in: residing in
+            - züständig: place of jurisdiction 
+    - Beschäftigung: employment 
+    - nebst unsührung der Eltern bei ledigen Personen oder der Kinder: along with the parent's instructions to (leadership of) single persons or children
+    - wenn eine verheiratete oder verwitwete Person starb: if a married or widowed person died
+- Besondere Aufzeichnung jener, die über 100 Jahre alt geworden: Special record of those over 100 years old 
+- Der Verstorbene ist fremd und gehört nach
+    - The deceased is an alien and belongs to
+        - Indicates place they are from
+
+
+# Hebrew on gravestones
+
+לפ"ק = Notation indicating Hebrew date omits thousands place
+
+
