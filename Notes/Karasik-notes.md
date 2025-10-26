@@ -6,6 +6,19 @@ tags:
   - genealogy
 ---
 
+## Aaron Nuchem Karasik
+
+- m. Rebecca Paperny Karasik
+	- b. 1848, Kalinkavichy
+- Children 
+	- Yetta Karasik Weissman, 1868-7 November 1945
+	- Morris Karasik, 1875-?
+	- Fanny Karasik Paperny, 1885-1937
+	- Dora Karasik Kirp, 1886-1941
+	- Charles Karasik, 1890-1942
+	- Sophie Karasik, 1893-?
+	- Feige Karasik Frenkel
+
 ## Charles Karasick
 
 #### 1920 Census
