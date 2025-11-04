@@ -4,7 +4,9 @@ created: 2025-06-21
 modified: 2025-06-22
 ---
 
-## Esther Schwartz
+## Possible Matches
+
+### Esther Schwartz
 
 NY State Certificate & Record of Marriage
 
@@ -16,7 +18,7 @@ NY State Certificate & Record of Marriage
 - Mother: Lena Polack
 - Groom: Nathan Litinsky
 
-## Isaac Schwartz
+### Isaac Schwartz
 
 1930 Census
 
@@ -28,7 +30,7 @@ NY State Certificate & Record of Marriage
 	- immig. 1906
 - Residence: 4 Rutgers Street, NY
 
-## Isaac Schwartz
+### Isaac Schwartz
 
 Worldwide Jewish Burial Registry
 
@@ -42,7 +44,7 @@ Worldwide Jewish Burial Registry
 - Wife: Lena
 - Hebrew Name: Yitzchok
 
-## Lena Schwartz
+### Lena Schwartz
 
 Worldwide Jewish Burial Registry
 
@@ -56,59 +58,62 @@ Worldwide Jewish Burial Registry
 - Husband: Isaac
 - Hebrew Name: Rochel Leah
 
-## Jankel Schwartz
+### Joseph Schwartz 
 
-b. circa 1862
+- b. 17 June 1899 (Lyantskorun/Zarechanka)
+- d. 13 June 1980 (LIC, NY)
+- m. Bessie Indin
+- Immigration: NY 1912
+- Father: Samuel (Szmarje) Schwartz
+	- b. 15 October 1860 (Lyantskorun/Zarechanka)
+	- Parents
+		- Joseph Schwartz
+		- Annie Rothberg
+	- Immigration: NY 8 May 1909 (SS Rotterdam)
+		- Age: 49
+		- Person joining: M. Rothberg (cousin), 32 St. Marks Place, NY
+	- d. 20 May 1941 (Brooklyn) 
+- Mother: Sara Gendler 
+	- father: Rachmil Gendler
+	- mother: Rifka Margolis
 
-Immig. 1904
-
-- Ship: Westernland
-- Departure: Liverpool, 20 July
-- Arrival: Philadelphia, 31 July  
-- Last place of residence: Kiltizar Jenzef (Vosada Andrejew)
-	- Likely Jędrzejów, Poland (near Kielce; Yiddish: Yendzshev)
-- Met by: Brother, Leib F. Goldstein, Woodbine, NJ
 
 
-## Sam Schwartz 
+## 1843 Revision List: Lyantskorun (Zarechanka)
 
-From Zarechanka
+### Aron Shvarts 
 
-- Emigrated to NY in 1909
-- Son Joseph emigrated to NY subsequently
+- Age: 64 (born 1779)
+- Father: Moshko
+- Son: Abram Borukh
+	- Age: 18 (born 1825)
 
-## Aron Shvarts 
+### Khaim Shvarts 
 
-From Zarechanka
+- Age: 40 (born 1803)
+- Father: Moshko
 
-- 1843 Revision List
-	- Age: 64 (born 1779)
-	- Father: Moshko
-	- Son: Abram Borukh
-		- Age: 18 (born 1825)
+### Itsko Shvarts 
 
-## Khaim Shvarts 
+- Age: 33 (born 1810)
+- Father: Moshko
 
-From Zarechanka
+### Moshko Shvarts 
 
-- 1843 Revision List
-	- Age: 40 (born 1803)
-	- Father: Moshko
+- Age: 44 (born 1799)
+- Father: Duvid
 
-## Itsko Shvarts 
 
-From Zarechanka
+## Other
 
-- 1843 Revision List
-	- Age: 33 (born 1810)
-	- Father: Moshko
+### Jankel Schwartz
 
-## Moshko Shvarts 
-
-From Zarechanka
-
-- 1843 Revision List
-	- Age: 44 (born 1799)
-	- Father: Duvid
-
+- b. circa 1862
+- Immig. 1904
+	- Ship: Westernland
+	- Departure: Liverpool, 20 July
+	- Arrival: Philadelphia, 31 July  
+	- Last place of residence: Kiltizar Jenzef (Vosada Andrejew)
+		- Likely Jędrzejów, Poland (near Kielce; Yiddish: Yendzshev)
+	- Met by: Brother, Leib F. Goldstein, Woodbine, NJ
 
