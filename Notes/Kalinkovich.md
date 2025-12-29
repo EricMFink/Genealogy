@@ -4,7 +4,15 @@ title: Kalinkovich
 
 ---
 
-Jewish Deaths in WWII
+## Voices of Jewish Towns: Kalinkovichi 
+
+http://shtetle.com/shtetls_gom/kalinkovichi
+
+## Salman Bagarav. My place Kalinkovichi
+
+https://belisrael.info/?p=22015
+
+## Jewish Deaths in WWII
 
 Source: https://belisrael.info/?p=15
 
