@@ -30,6 +30,7 @@ b. ~
 - Children
 	- Karl Schulz
 	- Emil Schulz
+	- Hermine, ca ~1883
 	- George Schulz, Sept. 8, 1894
 	- Ida Fried
 	- Olga Dyczek, July 27, 1899
