@@ -8,6 +8,8 @@ modified: 2025-06-22
 Jakob Fink
 
 - b, Křižanov
+- Occupation: Fleischer
+	- see birth records for children of Elizabeth & Simon Pleschner
 
 Anna Kafka
 
