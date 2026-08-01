@@ -1,0 +1,583 @@
+Institution,Street,Hamlet,City,City_Code,County,State,Country,Latitude,Longitude
+,,,,,,,Argentina,S34.0,W64.0
+,,,,,,,Belarus,N51.39921,E29.90479
+,,,,,,,Belarus,N53.0,E28.0
+,,,,,,,Canada,N45.0,W4.0
+,,,,,,,Czechia,N32.29876,W90.18481
+,,,,,,,England,N44.0,W71.0
+,,,,,,,Israel,N31.5,E34.75
+,,,,,,,Lithuania,N45.0,W4.0
+,,,,,,,Poland,N52.00898,E20.00404
+,,,,,,,Ukraine,N49.0095,E32.00043
+,,,,,,,Ukraine,N51.39921,E29.90479
+,,,,,,,United Kingdom,N54.76782,W2.69783
+,,,,,,,United States,N36.45664,W101.25
+,,,,,,California,United States,N34.68743,W116.78467
+,,,,,,Homyel voblasts,Belarus,N52.44262,E30.97252
+,,,,,,Illinois,United States,N39.80172,W89.64371
+,,,,,,Jihočeský kraj,Czechia,N48.97447,E14.47434
+,,,,,,Kyivska oblast,Ukraine,N49.91586,E30.32776
+,,,,,,Louisiana,United States,N31.00047,W92.0004
+,,,,,,Michigan,United States,N44.26438,W85.49973
+,,,,,,Minnesota,United States,N46.26249,W94.25377
+,,,,,,Minsks voblasts,Belarus,N53.93507,E27.56744
+,,,,,,New Jersey,United States,N40.18097,W74.50104
+,,,,,,New York,United States,N42.77928,W75.54199
+,,,,,,North Carolina,United States,N35.78607,W78.63808
+,,,,,,Ohio,United States,N40.26171,W82.99965
+,,,,,,Pennsylvania,United States,N40.81433,W77.69943
+,,,,,,Plzeňský kraj,Czechia,N49.51184,E13.16437
+,,,,,,Puerto Rico,United States,N18.26457,W66.49887
+,,,,,,Rhode Island,United States,N41.75038,W71.49978
+,,,,,Allegheny County,Pennsylvania,United States,N40.48038,W79.98528
+,,,,,Broward County,Florida,United States,N26.02655,W80.15076
+,,,,,Caddo Parish,Louisiana,United States,N32.59426,W93.88229
+,,,,,Contra Costa County,California,United States,N37.98967,W122.02789
+,,,,,Cook County,Illinois,United States,N42.04623,W88.08357
+,,,,,Crawford County,Pennsylvania,United States,N41.69445,W80.10544
+,,,,,Cuyahoga County,Ohio,United States,N41.49315,W81.67786
+,,,,,Dade County,Florida,United States,N25.62729,W80.4982
+,,,,,Luzerne County,Pennsylvania,United States,N41.19106,W75.99174
+,,,,,Lyon County,Minnesota,United States,N44.42544,W95.83717
+,,,,,McKean County,Pennsylvania,United States,N41.8179,W78.56941
+,,,,,Middlesex County,New Jersey,United States,N40.45269,W74.40765
+,,,,,Monroe County,New York,United States,N43.17714,W77.63557
+,,,,,Nassau County,New York,United States,N40.78002,W73.52257
+,,,,,Natchitoches Parish,Louisiana,United States,N31.77371,W93.08853
+,,,,,Pasco County,Florida,United States,N28.32252,W82.44141
+,,,,,Riverside County,California,United States,N33.97013,W117.39784
+,,,,,San Diego County,California,United States,N32.72895,W117.1637
+,,,,,San Joaquin County,California,United States,N36.61883,W120.18906
+,,,,,Ulster County,New York,United States,N41.89972,W74.25934
+,,,,,Venango County,Pennsylvania,United States,N41.41287,W79.758
+,,,,,Westchester County,New York,United States,N41.03431,W73.76564
+,,,,,okres Jičín,Hradec Králové kraj,Czechia,N50.44701,E15.35065
+,,,,,okres Tábor,Jihočeský kraj,Czechia,N49.42705,E14.66469
+,,,,,okres České Budějovice,Jihočeský kraj,Czechia,N49.01085,E14.49783
+,,,Alabama,,,Alabama,United States,N32.75041,W86.75026
+,,,Albany,,Albany County,New York,United States,N42.65258,W73.75623
+,,,Antonovka,,Naraulianski rajon,Homyel voblasts,Belarus,N52.46718,E61.75358
+,,,Antwerp,,,,Belgium,N51.22047,E4.40026
+,,,Arad,,Be'er Sheva,Southern District,Israel,N34.31815,W86.49582
+,,,Arlington,,,Virginia,United States,N38.88101,W77.10428
+,,,Ashdod,,,Southern District,Israel,N31.79213,E34.64966
+,,,Astrakhan,,,Astrakhan oblast,Russia,N46.34968,E48.04076
+,,,Atlanta,,Fulton County,Georgia,United States,N33.749,W84.38798
+,,,Azarychy,,Kalinkavichy rajon,Homyel voblasts,Belarus,N52.4648,E29.2643
+,,,Babruysk,,Babruysk rajon,Mahilyow voblasts,Belarus,N53.14636,E29.20552
+,,,Barry,,Vale of Glamorgan,,Wales,N51.39979,W3.2838
+,,,Batelov,,okres Jihlava,Vysočina kraj,Czechia,N49.31425,E15.39465
+,,,Be'er Sheva,,Be'er Sheva,Southern District,Israel,N31.26505,E34.79095
+,,,Bedford,,Middlesex County,Massachussetts,United States,N41.63526,W70.92701
+,,,Belleair Beach,,Pinellas County,Florida,United States,N27.92308,W82.84316
+,,,Berlin,,,,Germany,N52.52437,E13.41053
+,,,Beverly Hills,,Los Angeles County,California,United States,N34.07362,W118.40036
+,,,Bila Tserkva,,Bilatsverskyi raion,Kyivska oblast,Ukraine,N49.8004,E30.12851
+,,,Blatná,,okres Strakonice,Jihočeský kraj,Czechia,N49.42489,E13.88176
+,,,Blovice,,okres Plzeň-jih,Plzeňský kraj,Czechia,N49.5822,E13.54009
+,,,Boca Raton,,Palm Beach County,Florida,United States,N26.35869,W80.0831
+,,,Bohuslav,,Obukhivskyi raion,Kyivska oblast,Ukraine,N49.54637,E30.87407
+,,,Borisoglebsk,,,Voronezh oblast,Russia,N51.36892,E42.09804
+,,,Borovany,,okres České Budějovice,Jihočeský kraj,Czechia,N48.8986,E14.64227
+,,,Boston,,Suffolk County,Massachusetts,United States,N42.35843,W71.05977
+,,,Boynton Beach,,Palm Beach County,Florida,United States,N26.52535,W80.06643
+,,,Bradenton,,Manatee County,Florida,United States,N27.49893,W82.57482
+,,,Brahin,,Brahinski rajon,Homyel voblasts,Belarus,N51.64919,E30.36279
+,,,Bremen,,,Freie Hansestadt Bremen,Germany,N53.07582,E8.80717
+,,,Bristol,,Hartford County,Connecticut,United States,N41.68115,W72.9407
+,,,Brno,,,Jihomoravský kraj,Czechia,N49.19522,E16.60796
+,,,Brody,,Brodivskyi district,Lvivska oblast,Ukraine,N50.07947727155205,E25.14686664312877
+,,,Bronx,,Bronx County,New York,United States,N40.84985,W73.86641
+,,,Brooklyn,,Kings County,New York,United States,N40.6501,W73.94958
+,,,Budapest,,,,Hungary,N47.49835,E19.04045
+,,,Budislav,,okres Tábor,Jihočeský kraj,Czechia,N49.29384,E14.83742
+,,,Buffalo,,Erie County,New York,United States,N42.88645,W78.87837
+,,,Burbank,,Los Angeles County,California,United States,N34.18084,W118.30897
+,,,Burlington,,Burlington County,New Jersey,United States,N40.07122,W74.86489
+,,,Bystřice,,okres Benešov,Středočeský kraj,Czechia,N49.70799,E14.64581
+,,,Březí u Týna nad Vltavou,,okres České Budějovice,Jihočeský kraj,Czechia,N49.18209199765099,E14.387384305020658
+,,,Calgary,,,Alberta,Canada,N51.05011,W114.08529
+,,,Cambridge,,Middlesex County,Massachusetts,United States,N42.3751,W71.10561
+,,,Canton,,St. Lawrence County,New York,United States,N44.59562,W75.16909
+,,,Cape May,,Cape May County,New Jersey,United States,N38.93511,W74.90601
+,,,Carbondale,,Jackson County,Illinois,United States,N37.72727,W89.21675
+,,,Chandler,,Maricopa County,Arizona,United States,N33.30616,W111.84125
+,,,Chatham,,Kent,,England,N51.37891,E0.52786
+,,,Chernihiv,,Chernihivskyi raion,Chernihivska oblast,Ukraine,N51.50541,E31.28656
+,,,Chester,,Cheshire,,England,N42.95675,W71.25728
+,,,Chicago,,Cook County,Illinois,United States,N41.85003,W87.65005
+,,,Chlum u Třeboně,,okres Jindřichův Hradec,Jihočeský kraj,Czechia,N48.96235,E14.92799
+,,,Chotoviny,,okres Tábor,Jihočeský kraj,Czechia,N49.47803,E14.67695
+,,,Chýnov,,okres Tábor,Jihočeský kraj,Czechia,N49.40677,E14.81122
+,,,Cincinnati,,Hamilton County,Ohio,United States,N39.52367,W84.418
+,,,Clearwater,,Pinellas County,Florida,United States,N27.77086,W82.67927
+,,,Cleveland,,Bolivar County,Mississippi,United States,N33.744,W90.72482
+,,,Cleveland,,Cuyahoga County,Ohio,United States,N41.4995,W81.69541
+,,,Clifton Park,,Saratoga County,New York,United States,N42.86563,W73.77095
+,,,Colchester,,New London County,Connecticut,United States,N41.57539,W72.3333
+,,,Connecticut,,,Connecticut,United States,N41.66704,W72.66648
+,,,Cullman,,Cullman County,Alabama,United States,N34.17482,W86.84361
+,,,Cuxhaven,,,Niedersachsen,Germany,N53.86828,E8.69902
+,,,Czarnia,,powiat łomżyński,Podlaskie Voivodeship,Poland,N53.26429,E21.61182
+,,,Czarnkow,,powiat czarnkowsko-trzcianecki,województwo wielkopolskie,Poland,N52.90414,E16.56635
+,,,Dallas,,Dallas County,Texas,United States,N32.78306,W96.80667
+,,,Darmstadt,,Darmstadt,Hessen,Germany,N49.87167,E8.65027
+,,,Davenport,,Scott County,Iowa,United States,N41.52364,W90.57764
+,,,Davydovka,,Svyetlahorsk rajon,Homyel voblasts,Belarus,N52.540749161770385,E29.530934198905342
+,,,Daytona Beach,,Volusia County,Florida,United States,N29.21081,W81.02283
+,,,Deerfield Beach,,Broward County,Florida,United States,N26.31841,W80.09977
+,,,Des Moines,,Polk County,Iowa,United States,N41.60054,W93.60911
+,,,Detroit,,Wayne County,Michigan,United States,N42.33143,W83.04575
+,,,Dobříš,,okres Příbram,Středočeský kraj,Czechia,N49.78113,E14.16717
+,,,Dolní Kralovice,,okres Benešov,Středočeský kraj,Czechia,N49.64495,E15.17866
+,,,Dover,,Dutchess County,New York,United States,N41.74121,W73.57652
+,,,Duarte,,Los Angeles County,California,United States,N34.13945,W117.97729
+,,,Dunstable,,Bedfordshire,,England,N51.88571,W0.52288
+,,,Dymer,,Vyshhorodskyi raion,Kyivska oblast,Ukraine,N50.78923,E30.30287
+,,,Děčín,,okres Děčín,Ústecký kraj,Czechia,N50.78215,E14.21478
+,,,East Granby,,Hartford County,Connecticut,United States,N41.94181,W72.72752
+,,,East Los Angeles,,Los Angeles County,California,United States,N34.0239,W118.17202
+,,,Eastchester,,Westchaster County,New York,United States,N40.95833,W73.80861
+,,,Elizabeth,,Union County,New Jersey,United States,N40.66399,W74.2107
+,,,Englewood,,Arapahoe County,Colorado,United States,N39.64777,W104.98776
+,,,Englewood,,Bergen County,New Jersey,United States,N40.89288,W73.97264
+,,,Erie,,Erie County,Pennsylvania,United States,N42.12922,W80.08506
+,,,Fair Lawn,,Bergen County,New Jersey,United States,N40.94038,W74.13181
+,,,Fairfax,,,Virginia,United States,N38.84666,W77.30822
+,,,Fairview,,Bergen County,New Jersey,United States,N40.8126,W73.99903
+,,,Fall River,,Bristol County,Massachusetts,United States,N41.70149,W71.15505
+,,,Ferndale,,Oakland County,Michigan,United States,N42.46059,W83.13465
+,,,Filipow,,powiat suwalski,województwo podlaskie,Poland,N54.18037,E22.62076
+,,,Florida,,,Florida,United States,N28.75054,W82.5001
+,,,Fort Lauderdale,,Broward County,Florida,United States,N26.12231,W80.14338
+,,,France,,,,France,N46.0,E2.0
+,,,Frankfurt am Main,,Darmstadt,Hessen,Germany,N50.11552,E8.68417
+,,,Gaithersburg,,Montgomery County,Maryland,United States,N39.14344,W77.20137
+,,,Germany,,,,Germany,N51.5,E10.5
+,,,Glasgow,,,Scotland,United Kingdom,N55.86515,W4.25763
+,,,Glen Ridge,,Essex County,New Jersey,United States,N40.80538,W74.20376
+,,,Golčův Jeníkov,,okres Havlíčkův Brod,Vysočina kraj,Czechia,N49.81626,E15.47686
+,,,Great Neck,,Nassau County,New York,United States,N40.80066,W73.72846
+,,,Green Brook Township,,Somerset County,New Jersey,United States,N40.60431,W74.48417
+,,,Greensboro,,Guilford County,North Carolina,United States,N36.07264,W79.79198
+,,,Greenville,,Washington County,Mississippi,United States,N33.40898,W91.05978
+,,,Greystone Park,,Morris County,New Jersey,United States,N40.8331,W74.50016
+,,,Grodzisk Wielkopolski,,powiat grodziski,województwo wielkopolskie,Poland,N52.22762,E16.36534
+,,,Grove City,,Mercer County,Pennsylvania,United States,N41.15784,W80.08867
+,,,Guilderland,,Albany County,New York,United States,N42.70452,W73.91151
+,,,Göteborg,,Göteborg och Bohus,,Sverige,N57.70716,E11.96679
+,,,Hamburg,,,Freie und Hansestadt Hamburg,Germany,N53.55073,E9.99302
+,,,Hamilton,,,,Bermuda,N32.2949,W64.78303
+,,,Harrisville,,Butler County,Pennsylvania,United States,N41.13673,W80.00922
+,,,Hartford,,Hartford County,Connecticut,United States,N41.76721,W72.67868
+,,,Haverstraw,,Rockland County,New York,United States,N41.19759,W73.96458
+,,,Hayden,,Blount County,Alabama,United States,N33.8926,W86.75777
+,,,Hempstead,,Nassau County,New York,United States,N40.70621,W73.61874
+,,,Hluboká nad Vltavou,,okres České Budějovice,Jihočeský kraj,Czechia,N49.05225,E14.43427
+,,,Hluboš,,okres Příbram,Středočeský kraj,Czechia,N49.74622,E14.02019
+,,,Hlusk,,Hlusk rajon,Mahilyow voblasts,Belarus,N52.89109,E28.68645
+,,,Hollywood,,Broward County,Florida,United States,N26.0112,W80.14949
+,,,Honolulu,,Honolulu,Hawaii,United States,N21.30694,W157.85833
+,,,Horní Cerekev,,okres Pelhřimov,Vysočina kraj,Czechia,N49.32026,E15.32769
+,,,Houston,,Harris County,Texas,United States,N29.76328,W95.36327
+,,,Hořice,,okres Jičín,Hradec Králové kraj,Czechia,N50.36609,E15.63183
+,,,Hořovice,,okres Beroun,Středočeský kraj,Czechia,N49.83597,E13.90268
+,,,Hradištko,,okres Praha-západ,Středočeský kraj,Czechia,N49.86828,E14.40935
+,,,Hroby,,okres Tábor,Jihočeský kraj,Czechia,N49.38888,E14.84583
+,,,Humpolec,,okres Pelhřimov,Vysočina kraj,Czechia,N49.54152,E15.35932
+,,,Hungary,,,,Hungary,N47.0,E20.0
+,,,Indianapolis,,Marion County,Indiana,United States,N39.76838,W86.15804
+,,,Innsbruck,,,,Austria,N47.26266,E11.39454
+,,,Ipswich,,Suffolk,,England,N52.05917,E1.15545
+,,,Irapuato,,,Guanajuato,Mexico,N20.67675,W101.35628
+,,,Jerusalem,,,Jerusalem District,Israel,N31.76904,E35.21633
+,,,Jihlava,,okres Jihlava,Vysočina kraj,Czechia,N49.3961,E15.59124
+,,,Jindřichův Hradec,,okres Jindřichův Hradec,Jihočeský kraj,Czechia,N49.14404,E15.00301
+,,,Kalinkavichy,,Kalinkavichy rajon,Homyel voblasts,Belarus,N52.12843,E29.32989
+,,,Kalvarija,,Kalvarija Municipality.,Marijampolė County,Lithuania,N54.417,E23.223
+,,,Kandel,,Germersheim,Rheinland-Pfalz,Germany,N49.08277,E8.1972
+,,,Kaniv,,Cherkaskyi raion,Cherkashchyna oblast,Ukraine,N49.75187,E31.47003
+,,,Kansas City,,Jackson County,Missouri,United States,N39.09973,W94.57857
+,,,Karlovy Vary,,okres Karlovy Vary,Karlovarský kraj,Czechia,N50.23271,E12.87117
+,,,Kaunas,,KaunasMunicipality,Kaunas County,Lithuania,N54.90156,E23.90909
+,,,Keene,,,Ontario,Canada,N44.25012,W78.16622
+,,,Kingston-upon-Hull,,Yorkshire East Riding,,England,N53.7446,W0.33525
+,,,Kirtorf,,Vogelsbergkreis,Hessen,Germany,N50.76942,E9.10389
+,,,Kivshovata,,Bilatsverskyi raion,Kyivska oblast,Ukraine,N49.48783,E30.61643
+,,,Klinsk,,Kalinkavichy rajon,Homyel voblasts,Belarus,N52.1711,E29.0988
+,,,Konotop,,Naraulianski rajon,Homyel voblasts,Belarus,N51.24032,E33.20263
+,,,Kovel',,Kovel' raion,Volyn oblast,Ukraine,N51.21548,E24.70077
+,,,Kyiv,,,,Ukraine,N50.45466,E30.5238
+,,,Körmend,,Körmendi járás,Vas vármegye,Hungary,N47.01096,E16.60596
+,,,Kęty,,powiat oświęcimski,województwo małopolskie,Poland,N49.88214,E19.22333
+,,,Křižanov,,okres Písek,Jihočeský kraj,Czechia,N49.39873,E14.37813
+,,,La Ceiba,,,,Honduras,N15.75971,W86.78221
+,,,Lakewood,,Jefferson County,Colorado,United States,N39.70471,W105.08137
+,,,Lapichy,,Asipovichy rajon,Mahilyow voblasts,Belarus,N53.4354,E28.5376
+,,,Las Vegas,,Clark County,Nevada,United States,N36.17497,W115.13722
+,,,Latvia,,,,Latvia,N57.0,E25.0
+,,,Le Havre,,,,France,N49.49346,E0.10785
+,,,Lebedyn,,Shpolyanskyi district,Cherkashchyna oblast,Ukraine,N48.96517044862319,E31.526858644419075
+,,,Levittown,,Nassau County,New York,United States,N40.72593,W73.51429
+,,,Libkova Voda,,okres Pelhřimov,Vysočina kraj,Czechia,N49.37649,E15.19101
+,,,Liepāja,,,,Latvia,N56.50474,E21.01085
+,,,Linz,,,Oberösterreich,Austria,N48.30639,E14.28611
+,,,Liverpool,,Merseyside,,England,N53.41058,W2.97794
+,,,Loděnice,,okres Beroun,Středočeský kraj,Czechia,N49.99488,E14.157
+,,,Lomas de Zamora,,,Buenos Aires,Argentina,S34.7574,W58.40279
+,,,London,,Greater London,,England,N51.50853,W0.12574
+,,,Long Beach,,Nassau County,New York,United States,N40.58844,W73.65791
+,,,Los Angeles,,Los Angeles County,California,United States,N34.05223,W118.24368
+,,,Luka nad Jihlavou,,okres Jihlava,Vysočina kraj,Czechia,N49.37403,E15.70194
+,,,Malešov,,okres Kutná Hora,Středočeský kraj,Czechia,N49.91102,E15.22434
+,,,Mateyivtsi,,Kolomskyi raion,Ivano-Frankivska oblast,Ukraine,N48.50209,E25.16415
+,,,Mayfield Heights,,Cuyahoga County,Ohio,United States,N41.51922,W81.4579
+,,,Maywood,,Cook County,Illinois,United States,N41.8792,W87.84312
+,,,Mazyr,,Mazyrski rajon,Homyel voblasts,Belarus,N52.04975,E29.26311
+,,,McKees Rocks,,Allegheny County,Pennsylvania,United States,N40.46562,W80.06561
+,,,Melbourne,,,Victoria,Australia,S37.814,E144.96332
+,,,Meriden,,New Haven County,Connecticut,United States,N41.53675,W72.79434
+,,,Merrick,,Nassau County,New York,United States,N40.66288,W73.55152
+,,,Miami,,Dade County,Florida,United States,N25.77427,W80.19366
+,,,Milford,,New Haven County,Connecticut,United States,N41.22232,W73.0565
+,,,Milín,,okres Příbram,Středočeský kraj,Czechia,N49.63192,E14.046
+,,,Mishawaka,,St. Joseph County,Indiana,United States,N41.66111,W86.18328
+,,,Monterey Park,,Los Angeles County,California,United States,N34.06251,W118.12285
+,,,Montgomery,,Montgomery County,Alabama,United States,N32.36681,W86.29997
+,,,Morton Grove,,Cook County,Illinois,United States,N42.04059,W87.78256
+,,,Moscow,,,,Russia,N55.75204,E37.61781
+,,,Most,,okres Most,Ústecký kraj,Czechia,N50.50301,E13.63617
+,,,Mount Vernon,,Westchester County,New York,United States,N40.9126,W73.83708
+,,,Muscatine,,Muscatine County,Iowa,United States,N41.42471,W91.03752
+,,,Mushichi,,Kalinkavichy rajon,Homyel voblasts,Belarus,N52.512843651960566,E29.058994700311143
+,,,Mykolaiv,,Mykolajivskyi raion,Mykolaivska oblast,Ukraine,N46.97625,E31.99296
+,,,Myslkovice,,okres Tábor,Jihočeský kraj,Czechia,N49.29912,E14.7456
+,,,Nassau,,Rensselaer County,New York,United States,N42.51591,W73.61012
+,,,Natchitoches,,Natchitoches Parish,Louisiana,United States,N31.76072,W93.08627
+,,,Netanya,,HaSharon,Central District,Israel,N32.33291,E34.85992
+,,,Neustupov,,okres Benešov,Středočeský kraj,Czechia,N49.615,E14.6986
+,,,Neuwied,,Neuwied,Rhineland-Palatinate,Germany,N50.4336,E7.47057
+,,,New Haven,,New Haven County,Connecticut,United States,N41.30773,W72.92656
+,,,New London,,New London County,Connecticut,United States,N41.35774,W72.11769
+,,,New Orleans,,Orleans Parish,Louisiana,United States,N29.95465,W90.07507
+,,,New York,,,New York,United States,N40.71427,W74.00597
+,,,New York,,New York County,New York,United States,N40.77898,W73.96271
+,,,Newark,,Essex County,New Jersey,United States,N40.73566,W74.17237
+,,,Norfolk,,,Virginia,United States,N36.84681,W76.28522
+,,,North Las Vegas,,Clark County,Nevada,United States,N36.20079,W115.12316
+,,,Novomyrhorod,,Novoukrainka raion,Kirovohradska oblast,Ukraine,N48.81692,E31.64985
+,,,Novoselki,,,Ivanovo oblast,Russia,N56.61744,E40.03401
+,,,Nová Cerekev,,okres Pelhřimov,Vysočina kraj,Czechia,N49.41723,E15.11675
+,,,Oceanside,,Nassau County,New York,United States,N40.63871,W73.64013
+,,,Odesa,,Odesa raion,Odesa oblast,Ukraine,N46.48572,E30.74383
+,,,Oil City,,Venango County,Pennsylvania,United States,N41.43395,W79.70644
+,,,Oneonta,,Blount County,Alabama,United States,N33.94815,W86.47276
+,,,Orenburg,,,Orenburg oblast,Russia,N51.76712,E55.09883
+,,,Pacov,,okres Tábor,Jihočeský kraj,Czechia,N49.47076,E15.00168
+,,,Palestine,,,,Palestine,N31.92157,E35.20329
+,,,Palm Beach,,Palm Beach County,Florida,United States,N26.71534,W80.05337
+,,,Palm Desert,,Riverside County,California,United States,N33.72255,W116.37697
+,,,Panama Canal Zone,,,,Panamá,N9.35355,W79.89326
+,,,Parichi,,Svetlahorsk rajon,Homyel voblasts,Belarus,N52.8042,E29.4176
+,,,Paris,,,,France,N48.85341,E2.3488
+,,,Paseky,,okres Tábor,Jihočeský kraj,Czechia,N49.78409,E16.12553
+,,,Petah Tikva,,Petah Tikva,Central District,Israel,N32.08707,E34.88747
+,,,Philadelphia,,Philadelphia County,Pennsylvania,United States,N39.95238,W75.16362
+,,,Piaski,,powiat gostyński,województwo wielkopolskie,Poland,N51.88497,E17.07293
+,,,Pietrykaŭ,,Pietrykaŭski rajon,Homyel voblasts,Belarus,N52.12725727476021,E28.491258191242046
+,,,Pine Township,,Mercer County,Pennsylvania,United States,N41.16814,W80.06575
+,,,Pittsford,,Monroe County,New York,United States,N43.09062,W77.515
+,,,Plymouth Meeting,,Montgomery County,Pennsylvania,United States,N40.10233,W75.27435
+,,,Poděbrady,,okres Nymburk,Středočeský kraj,Czechia,N50.14242,E15.11881
+,,,Poliske,,Vyshhorod raion,Kyivska oblast,Ukraine,N51.24141,E29.38618
+,,,Pompano Beach,,Broward County,Florida,United States,N26.23786,W80.12477
+,,,Portsmouth,,,Virginia,United States,N36.83543,W76.29827
+,,,Postoloprty,,okres Louny,Ústecký kraj,Czechia,N50.35979,E13.70291
+,,,Poznań,,M. Poznań,województwo wielkopolskie,Poland,N41.51977,W81.63374
+,,,Praha,,,Hlavní město Praha,Czechia,N50.08804,E14.42076
+,,,Przerośl,,Powiat suwalski,Podlasie,Poland,N54.25179,E22.65776
+,,,Přehořov,,okres Tábor,Jihočeský kraj,Czechia,N49.2476,E14.75623
+,,,Příbram,,okres Příbram,Středočeský kraj,Czechia,N49.68988,E14.01043
+,,,Queens,,Queens County,New York,United States,N40.71318,W73.83121
+,,,Radenín,,okres Tábor,Jihočeský kraj,Czechia,N49.36938,E14.84068
+,,,Ratibořské Hory,,okres Tábor,Jihočeský kraj,Czechia,N49.46267,E14.76981
+,,,Razumnoye,,Belgorodsky raion,Belgorod oblast,Ukraine,N50.53439,E36.68462
+,,,Rečyca,,Rečyca rajon,Homyel voblasts,Belarus,N52.37099,E30.38475
+,,,Riga,,,,Latvia,N56.946,E24.10589
+,,,Rio De Janeiro,,,Rio De Janeiro,Brazil,S22.90642,W43.18223
+,,,River Edge,,Bergen County,New Jersey,United States,N40.92871,W74.03986
+,,,Riverside,,Riverside County,California,United States,N33.98209,W117.37587
+,,,Rochester,,Monroe County,New York,United States,N43.15478,W77.61556
+,,,Rock Island,,Rock Island County,Illinois,United States,N41.50948,W90.57875
+,,,Rockford,,Winnebago and Ogle Counties,Illinois,United States,N42.27113,W89.094
+,,,Rockville Centre,,Nassau County,New York,United States,N40.65871,W73.64124
+,,,Romania,,,,Romania,N46.0,E25.0
+,,,Romayor,,Liberty County,Texas,United States,N30.452647064836395,W94.84326269426793
+,,,Roselle,,Union County,New Jersey,United States,N40.65251,W74.25659
+,,,Rosh Haayin,,Petah Tikva,Central District,Israel,N32.09556,E34.95664
+,,,Roslyn Harbor,,Nassau County,New York,United States,N40.81654,W73.63672
+,,,Rotterdam,,,South Holland,Netherlands,N42.78702,W73.97096
+,,,Rudolfov,,okres České Budějovice,Jihočeský kraj,Czechia,N48.99339,E14.54179
+,,,Rumburk,,okres Děčín,Ústecký kraj,Czechia,N50.95151,E14.55699
+,,,Rybníky,,okres Příbram,Středočeský kraj,Czechia,N49.75264,E14.2059
+,,,Saint Louis,,Saint Louis City,Missouri,United States,N38.62727,W90.19789
+,,,Saint Petersburg,,,,Russia,N59.93863,E30.31413
+,,,Saint Petersburg,,Pinellas County,Florida,United States,N27.77086,W82.67927
+,,,San Antonio,,Bexar County,Texas,United States,N29.42412,W98.49363
+,,,San Diego,,San Diego County,California,United States,N32.71571,W117.16472
+,,,San Fernando,,Los Angeles County,California,United States,N34.28195,W118.43897
+,,,San Francisco,,San Francisco County,California,United States,N37.77493,W122.41942
+,,,San Juan,,,Puerto Rico,United States,N18.46633,W66.10572
+,,,Santa Monica,,Los Angeles County,California,United States,N34.01949,W118.49138
+,,,Santos,,,,Brazil,S23.96083,W46.33361
+,,,Sarasota,,Sarasota County,Florida,United States,N27.33643,W82.53065
+,,,Schenectady,,Schenectady County,New York,United States,N42.81424,W73.93957
+,,,Schwabach,,Mittelfranken,Bayern,Germany,N49.33047,E11.02346
+,,,Scotland,,,Scotland,United Kingdom,N56.0,W4.0
+,,,Sedlec,,okres České Budějovice,Jihočeský kraj,Czechia,N49.07283,E14.2865
+,,,Sedlčany,,okres Příbram,Středočeský kraj,Czechia,N49.66057,E14.42664
+,,,Shawnee Mission,,Johnson County,Kansas,United States,N39.02,W94.66583
+,,,Sioux City,,Woodbury County,Iowa,United States,N42.49999,W96.40031
+,,,Skokie,,Cook County,Illinois,United States,N42.03336,W87.73339
+,,,Skrygalov,,Mazyrski rajon,Homyel voblasts,Belarus,N52.1014,E28.8213
+,,,Smithtown,,Suffolk County,New York,United States,N40.85593,W73.20067
+,,,Smolensk,,,Smolensk oblast,Russia,N54.77826,E32.05088
+,,,South Bend,,St Joseph County,Indiana,United States,N41.68338,W86.25001
+,,,Southampton,,Hampshire,,England,N42.22926,W72.73009
+,,,Southbury,,New Haven County,Connecticut,United States,N41.47093,W73.2515
+,,,Springfield,,Sangamon County,Illinois,United States,N39.80172,W89.64371
+,,,St. Petersburg,,Pinellas County,Florida,United States,N27.77086,W82.67927
+,,,Stamford,,Fairfield County,Connecticut,United States,N41.22496,W73.3712
+,,,Staten Island,,Richmond County,New York,United States,N40.56233,W74.13986
+,,,Stráž Nad Nežárkou,,okres Jindřichův Hradec,Jihočeský kraj,Czechia,N49.06971,E14.90551
+,,,Strážov,,okres Klatovy,Plzeňský kraj,Czechia,N49.30326,E13.24623
+,,,Stsyapy,,Zhlobin District,Homyel’ Voblasc’,Belarus,N52.8123,E29.9511
+,,,Stádlec,,okres Tábor,Jihočeský kraj,Czechia,N49.373,E14.49703
+,,,Stříbřec,,okres Jindřichův Hradec,Jihočeský kraj,Czechia,N49.02989,E14.87825
+,,,Sun City West,,Maricopa County,Arizona,United States,N33.59754,W112.27182
+,,,Suwałki,,powiat suwalski,województwo podlaskie,Poland,N54.16655,E22.81818
+,,,Sušice,,okres Klatovy,Plzeňský kraj,Czechia,N49.23106,E13.52018
+,,,Szombathely,,Szombathelyi járás),Vas vármegye,Hungary,N47.23088,E16.62155
+,,,Sárospatak,,Sárospataki járás,Borsod-Abaúj-Zemplén vármegye,Hungary,N48.3245,E21.57383
+,,,Tampa,,Hillsborough County,Florida,United States,N27.94752,W82.45843
+,,,Tarashcha,,Bilatsverskyi raion,Kyivska oblast,Ukraine,N49.55883,E30.49967
+,,,Tel Aviv-Yafo,,,Tel Aviv District,Israel,N32.08088,E34.78057
+,,,Telč,,okres Jihlava,Vysočina kraj,Czechia,N49.18418,E15.45275
+,,,Thessalonika,,,Central Macedonia,Greece,N40.64072,E22.93493
+,,,Titusville,,Crawford County,Pennsylvania,United States,N41.627,W79.67366
+,,,Toronto,,,Ontario,Canada,N43.70643,W79.39864
+,,,Trhové Dušníky,,okres Příbram,Středočeský kraj,Czechia,N49.71379,E14.01226
+,,,Trimble,,Cullman County,Alabama,United States,N34.09343,W86.94861
+,,,Tucson,,Pima County,Arizona,United States,N32.22174,W110.92648
+,,,Tučapy,,okres Tábor,Jihočeský kraj,Czechia,N49.29129,E14.80341
+,,,Týn nad Vltavou,,okres České Budějovice,Jihočeský kraj,Czechia,N49.2234,E14.42057
+,,,Třeboň,,okres Jindřichův Hradec,Jihočeský kraj,Czechia,N49.00364,E14.77065
+,,,Ubolot'e,,Babruysk rajon,Mahilyow voblasts,Belarus,N53.4813,E29.478
+,,,Ulm,,Tübingen,Baden-Württemberg,Germany,N48.39841,E9.99155
+,,,Valhalla,,Westchester County,New York,United States,N41.07482,W73.77513
+,,,Valley Stream,,Nassau County,New York,United States,N40.66427,W73.70846
+,,,Vancouver,,,British Columbia,Canada,N49.24966,W123.11934
+,,,Varvažov,,Písek District,Jihočeský kraj,Czechia,N49.4389,E14.14259
+,,,Veracruz,,,,Mexico,N19.33333,W96.66667
+,,,Vienna,,,Vienna Stadt,Austria,N48.20849,E16.37208
+,,,Vilnius,,Vilnius City Municipality,Vilnius County,Lithuania,N54.68916,E25.2798
+,,,Virginia Beach,,,Virginia,United States,N36.85293,W75.97799
+,,,Vištytis,,Vilkaviškis District Municipality,Marijampolė County,Lithuania,N54.45544,E22.71729
+,,,Vodňany,,okres Strakonice,Jihočeský kraj,Czechia,N49.14789,E14.17513
+,,,Voronezh,,,Voronezh oblast,Russia,N51.66833,E39.19204
+,,,Washington,,,District of Columbia,United States,N38.89511,W77.03637
+,,,Waterbury,,New Haven County,Connecticut,United States,N41.55824,W73.03613
+,,,Waterford,,New London County,Connecticut,United States,N41.34176,W72.13841
+,,,Waterloo,,Black Hawk,Iowa,United States,N42.49276,W92.34296
+,,,Wayne,,Wayne County,Michigan,United States,N42.32226,W83.17631
+,,,West Babylon,,Suffolk County,New York,United States,N40.71816,W73.35429
+,,,West Hartford,,Hartford County,Connecticut,United States,N41.76222,W72.73876
+,,,West Orange,,Essex County,New Jersey,United States,N40.79871,W74.23904
+,,,West Palm Beach,,Palm Beach County,Florida,United States,N26.71534,W80.05337
+,,,White Plains,,Westchester County,New York,United States,N41.03399,W73.76291
+,,,White,,Indiana County,Pennsylvania,United States,N40.6334,W79.10392
+,,,Wilkes-Barre,,Luzerne County,Pennsylvania,United States,N41.24591,W75.88131
+,,,Wilmington,,New Castle County,Delaware,United States,N39.74595,W75.54659
+,,,Winn,,Winn Parish,Louisiana,United States,N31.94425,W92.63677
+,,,Winston-Salem,,Forsyth County,North Carolina,United States,N36.09986,W80.24422
+,,,Woodmere,,Nassau County,New York,United States,N40.63205,W73.71263
+,,,Yonkers,,Westchester County,New York,United States,N40.9304,W73.89789
+,,,Yurovichi,,Kalinkavichy rajon,Homyel voblasts,Belarus,N53.62044,E24.16529
+,,,Zaporizhzhia,,Zaporiz'kyj rajon,Zaporizka oblast,Ukraine,N47.85167,E35.11714
+,,,Zazim'e,,Brovarskyi raion,Kyivska oblast,Ukraine,N50.56923,E30.67319
+,,,Zběšičky,,okres Písek,Jihočeský kraj,Czechia,N49.3925,E14.42647
+,,,Zhytomyr,,Zhytomyrskyi raion,Zhytomyrska oblast,Ukraine,N50.25906,E28.66402
+,,,Zvěrotice,,okres Tábor,Jihočeský kraj,Czechia,N49.27196,E14.74469
+,,,Zvěstov,,okres Benešov,Středočeský kraj,Czechia,N49.63267,E14.79212
+,,,Záhoří,,okres Tábor,Jihočeský kraj,Czechia,N49.23959,E14.51349
+,,,Čechy,,okres Přerov,Olomoucký kraj,Czechia,N49.42906,E17.53433
+,,,Černovice,,okres Pelhřimov,Vysočina kraj,Czechia,N49.37265,E14.96089
+,,,České Budějovice,,okres České Budějovice,Jihočeský kraj,Czechia,N48.97447,E14.47434
+,,,Čierny Brod,,Galanta district,Trnava region,Slovakia,N48.14731,E17.65319
+,,,Łomża,,powiat łomżyński,województwo podlaskie,Poland,N53.17559,E22.07153
+,,,Švihov,,okres Klatovy,Plzeňský kraj,Czechia,N49.48136,E13.28417
+,,,Žagarė,,Joniškis district Municipality,Šiauliai County,Lithuania,N56.36149,E23.25094
+,,Atzgersdorf,Vienna,,48.1512135827711,Vienna Stadt,Austria,N48.15121358277105,E16.294929217347725
+,,Belmont,Brooklyn,,Kings County,New York,United States,N40.6501,W73.94958
+,,Edler,Boskovice,,okres Blansko,Jihomoravský kraj,Czechia,N49.48751,E16.65997
+,,Far Rockaway,Queens,,Queens County,New York,United States,N40.61604,W73.75534
+,,Flushing,Queens,,Queens County,New York,United States,N40.77222,W73.81748
+,,Glendale,Queens,,Queens County,New York,United States,N40.70322,W73.88726
+,,Hollywood Hills,Los Angeles,,Los Angeles County,California,United States,N34.14079,W118.32893
+,,Jeníčkova Lhota,Chotoviny,,okres Tábor,Jihočeský kraj,Czechia,N49.457580928497165,E14.715349278509377
+,,Josefstadt,Vienna,,,Vienna Stadt,Austria,N48.2105,E16.35124
+,,Judengasse 12,Vienna,,,Vienna Stadt,Austria,N48.21169,E16.37397
+,,Karalin,Pinsk,,Pinski rajon,Brest voblasts,Belarus,N52.23912053860175,E25.841002350814914
+,,Kew Gardens,Queens,,Queens County,New York,United States,N40.70908,W73.83182
+,,Khabno,Poliske,,Vyshhorod raion,Kyivska oblast,Ukraine,N51.24141,E29.38618
+,,Klein Ponikavica,Brody,,Brodivskyi district,Lvivska oblast,Ukraine,N50.05127360028228,E25.047397002896222
+,,Koloděje nad Lužnicí,Týn nad Vltavou,,okres České Budějovice,Jihočeský kraj,Czechia,N49.25167,E14.41938
+,,Křtěnov,Týn nad Vltavou,,okres České Budějovice,Jihočeský kraj,Czechia,N49.18513,E14.38169
+,,Lažany a Milčice,Blatná,,okres Strakonice,Jihočeský kraj,Czechia,N49.36283419133782,E13.882947381893056
+,,Lipniak,Gmina Suwałki,,powiat suwalski,województwo podlaskie,Poland,N54.14675,E23.05275
+,,Luka,Tarashchans'kyi hromada,,Bilatsverskyi raion,Kyivska oblast,Ukraine,N49.479372189483264,E30.67377793096127
+,,Lutová,Chlum u Třeboně,,okres Jindřichův Hradec,Jihočeský kraj,Czechia,N48.99036,E14.90879
+,,Lyantskorun,Zarichanka,,Chemerivtsi raion,Khmelnitskaya oblast,Ukraine,N48.89532,E26.37816
+,,Malzgasse 14,Vienna,,,Vienna Stadt,Austria,N48.22039018004335,E16.376688574195953
+,,Maspeth,Queens,,Queens County,New York,United States,N40.73223,W73.89224
+,,Neznašov,Všemyslice,,okres České Budějovice,Jihočeský kraj,Czechia,N49.23206,E14.37887
+,,Northridge,Los Angeles,,Los Angeles County,California,United States,N34.24076,W118.53905
+,,Olszanka,Filipow,,powiat suwalski,województwo podlaskie,Poland,N54.18037,E22.62076
+,,Ozone Park,Queens,,Queens,New York,United States,N40.67677,W73.84375
+,,Panorama City,Los Angeles,,Los Angeles County,California,United States,N34.22813,W118.45013
+,,Parkers Landing,Parker,,Armstrong County,Pennsylvania,United States,N41.0959,W79.68255
+,,Proseč Obořiště,Nová Cerekev,,okres Pelhřimov,Vysočina kraj,Czechia,N49.40729,E15.12843
+,,Prudice,Nemyšl,,okres Tábor,Jihočeský kraj,Czechia,N49.51369,E14.69241
+,,Rego Park,Queens,,Queens County,New York,United States,N40.7297,W73.85267
+,,Riverdale,Bronx,,Bronx County,New York,United States,N40.90125,W73.9064
+,,Rozwadów,Stalowa Wola,,powiat stalowowolski,województwo podkarpackie,Poland,N50.58286,E22.05334
+,,Stammersdorf,Vienna,,,Vienna Stadt,Austria,N48.30138888035402,E16.422798832631965
+,,Střítež,Černovice,,okres Pelhřimov,Vysočina kraj,Czechia,N49.38663,E14.94289
+,,Van Nuys,Los Angeles,,Los Angeles County,California,United States,N34.19036,W118.44944
+,,Větrný Jeníkov,Havlíčkův Brod,,okres Jihlava,Vysočina kraj,Czechia,N49.47541086631419,E15.480416636526181
+,,Woodland Hills,Los Angeles,,Los Angeles County,California,United States,N34.1746,W118.60531
+,,Yekaterinoslav,Dnipro,,Dniprovskyi Raion,Dnipropetrovska oblast,Ukraine,N48.46664,E35.04066
+,,Yelysavethrad,Kropyvnytskyi,,Kropyvnytskyi raion,Kirovohradska oblast,Ukraine,N48.50834,E32.26618
+,,York,Toronto,,,Ontario,Canada,N43.687708687020596,W79.47127232392828
+,,Zlotopol,Novomyrhorod,,Novoukrainka raion,Kirovohradska oblast,Ukraine,N48.81564203643158,E31.648651408716233
+,,Červené Záhoří,Chotoviny,,okres Tábor,Jihočeský kraj,Czechia,N49.47215605961637,E14.674988427243761
+,,Čichtice,Bavorov,,okres Strakonice,Jihočeský kraj,Czechia,N49.09815,E14.08722
+,,Łubowa,Gmina Tarłów,,powiat opatowski,województwo świętokrzyskie,Poland,N50.9370805255876,E21.72133446488957
+,1086 East 99th Street,,Cleveland,,Cuyahoga County,Ohio,United States,N41.4995,W81.69541
+,121 West 67th Street,,New York,,New York County,New York,United States,N40.77496,W73.98252
+,1340 Morris Avenue,,Bronx,,Bronx County,New York,United States,N40.83673301504544,W73.91184830271796
+,1465 Townsend Avenue,,Bronx,,Bronx County,New York,United States,N40.84207936797693,W73.91573848132911
+,1473 Boston Road,,Bronx,,Bronx County,New York,United States,N40.83514120496487,W73.8951765427056
+,1712 Stanhope Street,,Queens,,Queens County,New York,United States,N40.70599403493083,W73.91503536028564
+,1885 S W 7th Street,,Miami,,Dade County,Florida,United States,,
+,200 West 86th Street,,New York,,New York County,New York,United States,,
+,208 West 36th Street,,New York,,New York County,New York,United States,,
+,234 Magnolia Road,,Mount Vernon,,Westchester County,New York,United States,,
+,24 Blenheim Gardens,Cricklewood,London,,Greater London,,England,,
+,240 Mt. Hope Place,,Bronx,,Bronx County,New York,United States,,
+,2402 65th Street,,Brooklyn,,Kings County,New York,United States,,
+,32 Van Hudsan,,Colonie,,Albany County,New York,United States,,
+,3411 Larissa Drive,,Los Angeles,,Los Angeles County,California,United States,,
+,407 South 7th Street,,Pekin,,Tazewell,Illinois,United States,,
+,438 East 72nd Street,,New York,,New York County,New York,United States,,
+,4921 North 18th Street,,Philadelphia,,Philadelphia County,Pennsylvania,United States,,
+,578 Hendrix Place,,Brooklyn,,Kings County,New York,United States,,
+,591 Bedford Avenue,,Brooklyn,,Kings County,New York,United States,,
+,766 Belmont,,Brooklyn,,Kings County,New York,United States,,
+,Collage Avenue,,Bronx,,Bronx County,New York,United States,,
+,Glenwood Road,,Brooklyn,,Kings County,New York,United States,,
+,Hanover Square,,London,,Greater London,,England,N51.5139,W0.14374
+,S W 4th Sreet,,Miami,,Dade County,Florida,United States,,
+,San Marino Street,,Los Angeles,,Los Angeles County,California,United States,,
+,West 143rd Street,,New York,,New York County,New York,United States,,
+,no. 1,Červené Záhoří,Chotoviny,,okres Tábor,Jihočeský kraj,Czechia,,
+,no. 10,,Budislav,,okres Tábor,Jihočeský kraj,Czechia,,
+,no. 100,,Borovany,,okres České Budějovice,Jihočeský kraj,Czechia,,
+,no. 106,,Varvažov,,okres Písek,Jihočeský kraj,Czechia,,
+,no. 11,,Kolín,,okres Kolín,Středočeský kraj,Czechia,,
+,no. 14,,Kasejovice,,okres Plzeň-jih,Plzeňský kraj,Czechia,,
+,no. 145,,Černovice,,okres Pelhřimov,Vysočina kraj,Czechia,,
+,no. 20,,Loděnice,,okres Loděnice,Středočeský kraj,Czechia,,
+,no. 26,,Chotoviny,,okres Tábor,Jihočeský kraj,Czechia,,
+,no. 28,Proseč Obořiště,Nová Cerekev,,okres Pelhřimov,Vysočina kraj,Czechia,,
+,no. 29,,Neznašov,,okres České Budějovice,Jihočeský kraj,Czechia,,
+,no. 5,,Loděnice,,okres Beroun,Středočeský kraj,Czechia,,
+,no. 6,,Vodňany,,okres Strakonice,Jihočeský kraj,Czechia,,
+,no. 7,Střítež,Černovice,,okres Pelhřimov,Vysočina kraj,Czechia,,
+,no. 71,,Vlašim,,okres Benešov,Středočeský kraj,Czechia,,
+,no. 73,,Borovany,,okres České Budějovice,Jihočeský kraj,Czechia,,
+,no. 74,,Borovany,,okres České Budějovice,Jihočeský kraj,Czechia,,
+,no. 8,,Budislav,,okres Tábor,Jihočeský kraj,Czechia,,
+,no. 8,Dolní Světlá,Pojbuky,,okres Tábor,Jihočeský kraj,Czechia,,
+,no. 85,Rudolfov,České Budějovice,,okres České Budějovice,Jihočeský kraj,Czechia,,
+,no. 9,,Kardašova Řečice,,okres Jindřichův Hradec,Jihočeský kraj,Czechia,,
+Abbott Northwestern Hospital,,,Minneapolis,,Hennepin County,Minnesota,United States,,
+Auschwitz II-Birkenau,,,Gmina Oświęcim,,powiat oświęcimski,województwo małopolskie,Poland,N50.03797159906883,E19.173840997487982
+Auschwitz extermination camp,,,Gmina Oświęcim,,powiat oświęcimski,województwo małopolskie,Poland,N50.027625566681714,E19.203649537978183
+Baikove cemetery (Байкове кладбище),,,Kyiv,,Holosiivskyi district,Kyivska oblast,Ukraine,N50.41691329931884,E30.511093855175716
+Baron Hirsch Cemetery,,,Staten Island,,Richmond County,New York,United States,N40.62098565793656,W74.15297423268433
+Bayside Cemetery,,,Queens,,Queens County,New York,United States,N40.67823,W73.85535
+Beth El Cemetery,,,Groton,,New London County,Connecticut,United States,N41.37075,W72.07605
+Beth Jacob Society Cemetery,,,West Hartford,,Hartford County,Connecticut,United States,N41.72709,W72.72049
+Beth-El Cemetery,,,Westwood,,Bergen County,New Jersey,United States,N40.96944,W74.04763
+Cedar Park Cemetery,,,Paramus,,Bergen County,New Jersey,United States,N40.96946,W74.04768
+Connecticut State Hospital,,,Middletown,,Middlesex County,Connecticut,United States,N41.55834,W72.63237
+Cypress Hills Cemetery,,,Queens,,Queens County,New York,United States,N40.69762,W73.87911
+Donskoye cemetery (Донское кладбище),,,Moscow,,,,Russia,N55.711835156095056,E37.60412518262065
+Eden Memorial Park,,Mission Hills,Los Angeles,,Los Angeles County,California,United States,N34.28011885717683,W118.4678459500462
+Ellis Island,,,New York,,New York,New York,United States,N40.69927,W74.03931
+English Channel,,,,,,,England,N50.39101,W0.49438
+Friedhof Simmering,,,Vienna,,,Vienna Stadt,Austria,N48.17089,E16.42349
+Golden Cemetery,,,Golden,,Jefferson County,Colorado,United States,N39.72831344215964,W105.19630601625457
+Har HaMenuchot Cemetery,,,Jerusalem,,,Jerusalem District,Israel,N31.79840752595257,E35.17803792578839
+Har Nebo Cemetery,,,Philadelphia,,Philadelphia County,Pennsylvania,United States,N40.03858,W75.08716
+Harvard Law School,,,Cambridge,,Middlesex County,Massachusetts,United States,N42.37797,W71.11866
+Hollywood Forever Cemetery,,,Los Angeles,,Los Angeles County,California,United States,N34.08945,W118.31906
+Jewish Cemetery,,,Natchitoches,,Natchitoches Parish,Louisiana,United States,N31.76643,W93.09517
+Kapustyanoe Cemetery (Капустяне кладовище),,,Zaporizhzhia,,Zaporiz'kyj rajon,Zaporizka oblast,Ukraine,N47.85240506049763,E35.186988011076295
+Lakeside Memorial Park,,,Miami,,Dade County,Florida,United States,N25.79949,W80.36261
+Maimonides Cemetery,,,Brooklyn,,Kings County,New York,United States,N40.6907413370135,W73.87122521621625
+Maiselova synagoga,,,Praha,,,Hlavní město Praha,Czechia,N50.08884,E14.41888
+Malyy Trostenets extermination camp,,,Malyy Trostenets,,Minski rajon,Minsks voblasts,Belarus,N53.8392,E27.70688
+Mass execution & burial site,,,Kalevi-Liiva,,Jõelähtme Parish,Harjumaa,Estonia,N59.48022,E25.25028
+Mass grave,,Šķēde,Liepāja,,,,Latvia,N56.59963,E21.02129
+Militärseelsorge,,,Vienna,,,Vienna Stadt,Austria,N48.17328755006955,E16.29770339200275
+Montefiore Cemetery,,,Queens,,Queens County,New York,United States,N40.68653,W73.74148
+Montefiore Hospital,,,Bronx,,Bronx County,New York,United States,N40.88021,W73.88007
+Mt. Carmel Cemetery,,,Commerce,,Los Angeles County,California,United States,N33.97444,W118.1438
+Mt. Carmel Cemtery,,,Queens,,Queens County,New York,United States,N40.69632,W73.8817
+Mt. Judah Cemetery,Cypress Avenue,Ridgewood,Queens,,Queens County,New York,United States,N40.69287,W73.8916
+Mt. Laurel Cemetery,,,Burlington,,Burlington County,New Jersey,United States,N39.92719,W74.89756
+Mt. Lebanon Cemetery,,Glendale,Queens,,Queens County,New York,United States,N40.69997,W73.87237
+Mt. Olivet Cemetery,,,Queens,,Queens County,New York,United States,N40.72036,W73.89679
+Mt. Sinai Cemetery,Utica Street,,Winston-Salem,,Forsyth County,North Carolina,United States,N36.04982374523842,W80.22610581508002
+Mt. Zion Cemetery,,,Los Angeles,,Los Angeles County,California,United States,N34.02123933622146,W118.1784361453587
+Mt. Zion Cemetery,,Maspeth,Queens,,Queens County,New York,United States,N40.73204,W73.907
+New Jewish Cemetery (Jaunie ebreju kapi),,,Riga,,,,Latvia,N56.98892,E24.20722
+New Montefiore Cemetery,,,West Babylon,,Nassau County,New York,United States,N40.726105916526095,W73.39087468743855
+Nikolo-Arkhangelskoye Cemetery,Ulitsa Okol'naya 4,Balashikha,Moscow,,,,Russia,N55.74133946292481,E37.898571313245206
+Nový židovský hřbitov v Praze,Izraelská 1,,Praha,,,Hlavní město Praha,Czechia,N50.08051,E14.47713
+Old Jewish Cemetery,,,Sušice,,okres Klatovy,Plzeňský kraj,Czechia,N49.23106,E13.52018
+Old Montefiore Cemetery,,Springfield Gardens,Queens,,Queens County,New York,United States,N40.68593,W73.74264
+Raiņa Park mass execution site,,,Liepāja,,,,Latvia,N56.5195846577608,E21.020758544618552
+Randolph Field,,,San Antonio,,Bexar County,Texas,United States,N45.0,W4.0
+Royal Palm Cemetery South,,,St. Petersburg,,Pinellas County,Florida,United States,N27.77086,W82.67927
+Stadttempel,,,Vienna,,,Vienna Stadt,Austria,N48.21172084890692,E16.374711766880655
+Temple Israel Cemetery,225 Richards Avenue,,Norwalk,,Fairfield County,Connecticut,United States,N41.10995,W73.45107
+Theresienstadt ghetto,,,Terezín,,okres Litoměřice,Ústecký kraj,Czechia,N50.511,E14.15055
+Townsend Harris High School,,Flushing,Queens,,Queens County,New York,United States,N40.75766,W73.91327
+Treblinka extermination camp,,Treblinka,Gmina Małkinia Górna,,powiat ostrowski,województwo mazowieckie,Poland,N52.6922,E22.02836
+Trumpeldor Cemetery,,,Tel Aviv-Yafo,,,Tel Aviv District,Israel,N32.08088,E34.78057
+U.S. District Court SDNY,,,New York,,New York County,New York,United States,N40.71373,W74.00089
+US Army,,,,,,,United States,,
+Vostryakobskoye cemetery (Востряковское кладбище),,,Moscow,,,,Russia,N55.658741129828186,E37.4428602843318
+Waldheim Cemetery,,,Forest Park,,Cook County,Illinois,United States,N41.87948,W87.81367
+Washington Cemetery,,,Brooklyn,,Kings County,New York,United States,N40.61947,W73.97539
+Washington or Floral Park Cemetery,,,South Brunswick,,Middlesex County,New Jersey,United States,N40.37538,W74.61349
+Woodlawn Park North,,,Miami,,Dade County,Florida,United States,N25.77427,W80.19366
+Workmen's Circle section of Mt. Moriah Cemetery,,,Fairview,,Bergen County,New Jersey,United States,N40.8126,W73.99903
+Zentralfriedhof,,,Vienna,,,Vienna Stadt,Austria,N48.1512513138441,E16.438500470612663
+Zion Gardens Cemetery,,,Chicago,,Cook County,Illinois,United States,N41.85003,W87.65005
+židovský hřbitov Prudice,,,Jeřice,,okres Tábor,Jihočeský kraj,Czechia,N50.34456,E15.68077
+židovský hřbitov Černovice,,,Černovice,,okres Pelhřimov,Vysočina krei,Czechia,N49.38063197784266,E14.959411729132864
+židovský hřbitov,,,Straz nad Nezarkou,,okres Jindřichův Hradec,Jihočeský kraj,Czechia,N49.06971,E14.90551
