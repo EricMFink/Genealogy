@@ -1,0 +1,107 @@
+---
+title: Litinsky
+created: 2025-06-21
+modified: 2026-08-14
+tags:
+  - genealogy
+---
+
+## Litinsky-Schwarz Places
+
+- LITINSKY: Zlotopil, Novomyrhorod, Odessa
+- KAGARLITSKY: Kivshovata, Zlotopil, Novomyrhorod, Boguslav
+- SCHWARTS & POLACK: Lyantskorun (Zarichanka)
+- MEIEROVITZ: Odessa
+
+## People
+
+### Nathan Litt
+
+- b. 23 June (per petition for naturalization 1921)
+- Immigration
+	- 1908, for 1 year (per passenger list, Zaiten from Bremen)
+	- 22 January 1910 (passenger list, Zaiten from Bremen)
+- Residence
+	- 1910: 128 2nd Ave, NY (per marriage certificate)
+	- 1916: 471 6th Ave, Brooklyn (per declaration of intention 1916)
+	- 1921: 54 E. 3rd Street, NY (per petition for naturalization 1921)
+
+### Esther Litt
+
+- Immigration: ca. 1905 (per NY State Census 1915)
+
+### Norma Lit
+
+- Birth: 16 September 1924
+- Father
+	- Oscar Z (Zacharias) Lit
+	    - Birth: 12 June 1882, Novomirgorod, Kiev
+			- cf. Harry Litinsky
+		- Parents: Nathan (Nachum) and Etta (Ettel) Litinsky
+		- Marriage: 1910, Vienna Stacktempel
+		- Immigration: July 1911, by ship from Hamburg
+		- Death: 6 April 1944, Bronx
+- Mother
+	- Elsie
+		- Birth: ca. 1885, Russia
+		- Father: Moses (Moritz) Jaroslawsky (Jaro)
+			- Birth: 16 September 1860, Zlotopil
+			- Immigration: October 1910
+			- Immigration: July 1911
+				- By ship from Hamburg
+				- Zacharias Litinsky also listed as passenger
+			- Residence: Park Avenue, Madison Avenue?
+		- Mother Lina Zaroslawsky
+			- Birth: ca. 1864, Odessa
+		- Siblings
+			- Rosa
+				- Birth: ca. 1891, Odessa
+			- Fanny
+				- Birth: ca. 1895, Vienna
+			- Joseph
+				- Birth: ca. 1898, Vienna
+				- Wife: Lillian
+			- Olga
+				- Birth: ca. 1900, Vienna
+			- Otto
+				- Birth: ca. 1907, Vienna
+$1
+
+### Litinsky in Novomirgorod
+
+<https://www.centropa.org/en/biography/remma-kogan>
+
+Chaim Dovid Litinsky
+
+- 1831-1906, Novomirgorod
+- married Chasia Ethil (surname?), 1858
+	- 1838-1909, Novomirgorod
+- children
+	- Moishe-Aron
+	- Gershon
+	- Zelman
+	- Sender
+	- Nisel
+	- Yitzhok-Leib
+	- Chaya-Leya
+	- Sura
+	- Vera
+	- Esther
+$1
+
+Chaya-Leya Litinsky
+
+- 1864-1922 (Novomirgorod)
+- married Mordko Kogan (1865-?)
+- children
+	- Rosalia, 1883-1955
+	- Lev, 1891-1966
+	- Grigori (Grisha), 1896-? (during WWII)
+	- Moisey, 1900-1986
+		- married Rachil Anhert (1903-1991)
+		- children
+			- Remma (1925-)
+			- Yuri
+	- Yakov, 1902-197?
+	- David, 1905-1941 (Defense of Leningrad)
+	- Anatoli, 1909-198?

@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: pudgw-vgh5u
+created: 2026-08-24T09:14:17-04:00
